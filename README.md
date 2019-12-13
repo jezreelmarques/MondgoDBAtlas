@@ -1,9 +1,7 @@
-# nodejsmongodb
+<!-- 13/12/2019 -->
+<!-- Escola Tecnica Estadual Monteiro Lobato -->
+<!-- Jezreel dos Santos -->
+<!-- Cândido Luciano Farias -->
+<!-- Criação de Sites -->
 
-ABM simple de tareas, con nodejs y mongoDB (Atlas)
-
-### How to start it:
-
-- `npm install`
-- Habilitar ip en Atlas
-- `npm run dev`
+<!-- MONGODB -->
